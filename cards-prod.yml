@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hi everyone, welcome to EazyBank cards related prod APIs"
+  message: "En la calle rompiendo, welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}a1af38af429da80c32e5a2b661802cc03eca175afbb2b64e03693704dd90400d30b0bc1530f457a28bad5c3e1f320d80"
